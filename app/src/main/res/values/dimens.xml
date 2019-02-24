@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left_view">8dp</dimen>
+    <dimen name="margin_right_view">8dp</dimen>
+    <dimen name="text_view_size_second_activity">16sp</dimen>
+</resources>
